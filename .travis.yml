@@ -1,5 +1,8 @@
 language: java
 
+os: linux
+arch: ppc64le
+
 jdk:
   - openjdk11
 
